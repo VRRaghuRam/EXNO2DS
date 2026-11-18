@@ -97,7 +97,7 @@ plt.show()
 ```
 <img width="572" height="411" alt="image" src="https://github.com/user-attachments/assets/f2fa25fa-e22a-4110-bc80-422326efc150" />
 <img width="581" height="411" alt="image" src="https://github.com/user-attachments/assets/fce59680-2f96-47ca-8dc4-2278ec185410" />
-<img width="581" height="441" alt="image" src="https://github.com/user-attachments/assets/419dbe5b-ffa0-4a89-a7c5-3907654ffac4" />
+<img width="581" height="463" alt="image" src="https://github.com/user-attachments/assets/5fda0ff3-a331-4270-a0e7-90be4826d59c" />
 <img width="581" height="445" alt="image" src="https://github.com/user-attachments/assets/ec70cbfb-b269-4f00-bb62-5e8d900a70b2" />
 <img width="484" height="484" alt="image" src="https://github.com/user-attachments/assets/7e464790-2b86-4de4-8839-8d275473f7bb" />
 <img width="484" height="484" alt="image" src="https://github.com/user-attachments/assets/85eaf9df-9c09-4e10-8141-a5824d061a15" />
